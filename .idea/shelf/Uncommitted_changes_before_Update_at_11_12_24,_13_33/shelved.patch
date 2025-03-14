@@ -1,0 +1,219 @@
+Index: COD_Undir_Flota/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/COD_Undir_Flota/.idea/vcs.xml b/COD_Undir_Flota/.idea/vcs.xml
+deleted file mode 100644
+--- a/COD_Undir_Flota/.idea/vcs.xml	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: COD_Undir_Flota/Ejercicios/src/Barco.java
+===================================================================
+diff --git a/COD_Undir_Flota/Ejercicios/src/Barco.java b/COD_Undir_Flota/Ejercicios/src/Barco.java
+deleted file mode 100644
+--- a/COD_Undir_Flota/Ejercicios/src/Barco.java	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,64 +0,0 @@
+-public class Barco {
+-    public static void main(String[] args) {
+-
+-        int[][] tablero;
+-
+-        //coordenadas de los barcos, donde hay un uno hay un trozo de barco
+-        tablero = new int[][]{
+-                {4,4,4,4,0},
+-                {0,0,0,0,0},
+-                {0,0,0,0,2},
+-                {0,0,0,0,2},
+-                {0,0,1,0,0}
+-        };
+-
+-        recorrerTablero(tablero);
+-        System.out.println("...");
+-        /*
+-        Muestra lass corder
+-        //coordenadas de la cuadrícula donde están los barcos
+-    int i = 0;
+-    int j = 0;
+-
+-    //te enseña todas las coordenadas por pantalla
+-    do{
+-        do{
+-            System.out.println(tablero[i][j]);
+-            j++;
+-        }while(j<5);
+-        i++;
+-        j=0;
+-    }while(i<5);
+-
+-*/
+-
+-    }
+-    private static void recorrerTablero(int[][] aux_tablero) {
+-        for(int i=0; i<5;i++){
+-            for(int j=0; j<5; j++){
+-                if(aux_tablero[i][j]>=0){
+-                        switch (aux_tablero[i][j]){
+-
+-                            case 1:
+-                                    System.out.println("Avion");
+-                                    System.out.print("Posicion: "+i+" "+j);
+-                                    System.out.print("\n");
+-                                    break;
+-                            case 2:
+-                                    System.out.println("Buque");
+-                                    System.out.print("Posicion: "+i+" "+j);
+-                                    System.out.print("\n");
+-                                    break;
+-                            case 4:
+-                                    System.out.println("Portaaviones");
+-                                    System.out.print("Posicion: "+i+" "+j);
+-                                    System.out.println("\n");
+-                                    break;
+-                        }
+-                }
+-
+-            }
+-        }
+-
+-    }
+-}
+Index: COD_Undir_Flota/Ejercicios/.idea/.gitignore
+===================================================================
+diff --git a/COD_Undir_Flota/Ejercicios/.idea/.gitignore b/COD_Undir_Flota/Ejercicios/.idea/.gitignore
+deleted file mode 100644
+--- a/COD_Undir_Flota/Ejercicios/.idea/.gitignore	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: COD_Undir_Flota/Ejercicios/Ejercicios.iml
+===================================================================
+diff --git a/COD_Undir_Flota/Ejercicios/Ejercicios.iml b/COD_Undir_Flota/Ejercicios/Ejercicios.iml
+deleted file mode 100644
+--- a/COD_Undir_Flota/Ejercicios/Ejercicios.iml	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: COD_Undir_Flota/Ejercicios/.idea/vcs.xml
+===================================================================
+diff --git a/COD_Undir_Flota/Ejercicios/.idea/vcs.xml b/COD_Undir_Flota/Ejercicios/.idea/vcs.xml
+deleted file mode 100644
+--- a/COD_Undir_Flota/Ejercicios/.idea/vcs.xml	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: COD_Undir_Flota/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/COD_Undir_Flota/.idea/modules.xml b/COD_Undir_Flota/.idea/modules.xml
+deleted file mode 100644
+--- a/COD_Undir_Flota/.idea/modules.xml	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/COD_Undir_Flota.iml" filepath="$PROJECT_DIR$/COD_Undir_Flota.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: COD_Undir_Flota/Ejercicios/.idea/misc.xml
+===================================================================
+diff --git a/COD_Undir_Flota/Ejercicios/.idea/misc.xml b/COD_Undir_Flota/Ejercicios/.idea/misc.xml
+deleted file mode 100644
+--- a/COD_Undir_Flota/Ejercicios/.idea/misc.xml	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: COD_Undir_Flota/Ejercicios/src/Maquina_de_cafe.java
+===================================================================
+diff --git a/COD_Undir_Flota/Ejercicios/src/Maquina_de_cafe.java b/COD_Undir_Flota/Ejercicios/src/Maquina_de_cafe.java
+deleted file mode 100644
+--- a/COD_Undir_Flota/Ejercicios/src/Maquina_de_cafe.java	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
++++ /dev/null	(revision f0c674dfef7e2a9309beab1cb858a3e350b0636c)
+@@ -1,48 +0,0 @@
+-import java.util.Scanner;
+-
+-/**Maquina de cafe,te,chocolate pidiendo si quiere o no azuccar,empezando por el dinero que inserta el cliente
+- *
+- *
+- **/
+-public class Maquina_de_cafe {
+-    public static void main(String[] args){
+-        Scanner sc = new Scanner(System.in);
+-        int dinero;
+-        boolean azucar;
+-        boolean te;
+-        boolean chocolate;
+-        boolean cafe;
+-
+-        System.out.println("¿Cuánto dinero insertas?");
+-        dinero = sc.nextInt();
+-
+-       System.out.println("¿Quieres café? (Si/No)");
+-       cafe= sc.nextBoolean();
+-
+-        System.out.println("¿Quieres té? (Si/No)");
+-        te = sc.nextBoolean();
+-
+-        System.out.println("¿Quieres chocolate? (Si/No)");
+-        chocolate = sc.nextBoolean();
+-
+-        System.out.println("¿Quieres azúcar? (Si/No)");
+-        azucar = sc.nextBoolean();
+-        // Comprobar si hay suficiente dinero
+-        if(dinero < 5){
+-            System.out.println("No tienes suficiente dinero.");
+-        } else {
+-            // Calcular el cambio
+-            int cambio = dinero - 5;
+-            System.out.println("Cambio: " + cambio);
+-
+-            // Mostrar los productos elegidos
+-            System.out.println("Productos elegidos:");
+-            if(cafe) System.out.println("Café");
+-            if(te) System.out.println("Té");
+-            if(chocolate) System.out.println("Chocolate");
+-            if(azucar) System.out.println("Azúcar");
+-        }
+-
+-        sc.close();
+-    }
+-}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f12cf781-d5ab-41b8-84ea-4a3807042c51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/Ejercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/src/Barco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/src/Maquina_de_cafe.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2o9oa3ht3asG5aOvJn1IlqzGgv5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/dam/Documentos/COD",
+    "onboarding.tips.debug.path": "/home/dam/Documentos/COD/Cod_practicas/src/Main.java",
+    "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Cod_practicas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Cod_practicas" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f12cf781-d5ab-41b8-84ea-4a3807042c51" name="Changes" comment="" />
+      <created>1730291218942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730291218942</updated>
+    </task>
+    <servers />
+  </component>
+</project>

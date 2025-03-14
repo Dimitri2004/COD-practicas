@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="806c99eb-acd2-4895-ad69-c806980ea66b" name="Changes" comment="Practica de hundir la flota en COD">
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/Ejercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/src/Barco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COD_Undir_Flota/Ejercicios/src/Maquina_de_cafe.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../COD_Undir_Flota" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pkgkdvvuXr6gL3BmLVsz0yVKVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Barco.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dam/Documentos/COD/COD&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../COD_Undir_Flota" />
+      <recent name="$PROJECT_DIR$/../COD_Undir_Flota" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="806c99eb-acd2-4895-ad69-c806980ea66b" name="Changes" comment="" />
+      <created>1733315632034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733315632034</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Practica de hundir la flota en COD">
+      <option name="closed" value="true" />
+      <created>1733318322994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733318322994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Practica de hundir la flota en COD">
+      <option name="closed" value="true" />
+      <created>1733318325775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733318325775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Practica de hundir la flota en COD">
+      <option name="closed" value="true" />
+      <created>1733318864839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733318864839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Practica de hundir la flota en COD">
+      <option name="closed" value="true" />
+      <created>1733923934181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733923934181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practica de hundir la flota en COD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica de hundir la flota en COD" />
+  </component>
+</project>
